@@ -31,8 +31,6 @@ A dark-themed PyQt6 GUI for browsing and editing SQLite `.db`, `.sqlite`, and `.
 - BLOB cells are displayed but not directly edited.
 - NULL values are represented as `<NULL>`.
 
-![SQL Editor view](shot_sql.png)
-
 ## Install
 
 ```bat
